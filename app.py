@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn.linear_module import LinearRegression
+from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
 st.title("Canada Per Capita Income Prediction")
